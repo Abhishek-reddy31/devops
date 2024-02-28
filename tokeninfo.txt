@@ -1,1 +1,4 @@
-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
+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
+
+git config --global user.name "username"
+git config --global user.email "email"
